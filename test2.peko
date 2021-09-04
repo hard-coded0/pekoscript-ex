@@ -1,0 +1,5 @@
+func say_hello[name] {
+	echo["Hello " + name];
+}
+
+say_hello["Preston"];
